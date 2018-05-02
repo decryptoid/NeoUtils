@@ -9,7 +9,8 @@ echo "         ai-blockchain.com"
 echo "***********************************"
 echo
 echo  Starting NEO consensys Nodes...
-/home/ec2-user/neo-scan-docker/docker-compose up
+cd /home/ec2-user/neo-scan-docker/
+docker-compose up
 echo
 echo "***********************************"
 echo "          A.I Blockchain"
