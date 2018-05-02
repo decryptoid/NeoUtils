@@ -17,6 +17,5 @@ echo "      NEO development server"
 echo "         ai-blockchain.com"
 echo "***********************************"
 echo
-echo  STOPPED
 echo
 
